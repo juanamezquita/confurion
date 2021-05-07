@@ -40,7 +40,7 @@ export const DISHES =
             {
             id: 4,
             rating: 2,
-            comment: "It's your birthday, we're gonna party!",
+            comment: "No me gustó!",
             author: "25 Cent",
             date: "2011-12-02T17:57:28.556094Z"
             }
@@ -85,7 +85,7 @@ export const DISHES =
             {
             id: 4,
             rating: 2,
-            comment: "It's your birthday, we're gonna party!",
+            comment: "Muy bueno por el precio!",
             author: "25 Cent",
             date: "2011-12-02T17:57:28.556094Z"
             }
@@ -131,7 +131,7 @@ export const DISHES =
             {
             id: 4,
             rating: 2,
-            comment: "It's your birthday, we're gonna party!",
+            comment: "The vadout is great!",
             author: "25 Cent",
             date: "2011-12-02T17:57:28.556094Z"
             }
@@ -177,7 +177,7 @@ export const DISHES =
             {
             id: 4,
             rating: 2,
-            comment: "It's your birthday, we're gonna party!",
+            comment: "Hola que buen cake!",
             author: "25 Cent",
             date: "2011-12-02T17:57:28.556094Z"
             }
